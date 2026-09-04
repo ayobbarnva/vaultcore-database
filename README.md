@@ -1,4 +1,3 @@
-# SQL_BANK-
 # VaultCore
 
 A simple banking database project created with MariaDB.
