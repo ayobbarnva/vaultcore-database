@@ -22,7 +22,7 @@ The project is mainly created for practicing SQL and understanding database rela
 Import the SQL file into MariaDB:
 
 ```bash
-mysql -u root -p < vaultcore.sql
+mysql -u root -p < Vaultcore.sql
 ```
 
 ## Note
